@@ -301,5 +301,5 @@ int q_descend(struct list_head *head)
 int q_merge(struct list_head *head)
 {
     // https://leetcode.com/problems/merge-k-sorted-lists/
-    return 0;
+    return 1;
 }
